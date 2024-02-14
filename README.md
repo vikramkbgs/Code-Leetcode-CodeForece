@@ -1,5 +1,2 @@
-### wsl-notes
-😊 This notes is related to window sub Linux system.
-
-😊 This notes is related to window sub Linux system.
-
+# LeetCode
+This repos. containing leetcode practice problem solution.
